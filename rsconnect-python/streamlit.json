@@ -1,0 +1,11 @@
+{
+    "https://api.posit.cloud": {
+        "server_url": "https://api.posit.cloud",
+        "filename": "/Users/alexchisholm/Desktop/Coding/streamlit",
+        "app_url": "https://posit.cloud/content/6551099",
+        "app_id": 9894797,
+        "app_guid": null,
+        "title": "streamlit",
+        "app_mode": "python-streamlit"
+    }
+}
